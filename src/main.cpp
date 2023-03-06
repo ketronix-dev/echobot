@@ -10,7 +10,7 @@ using namespace std;
 using namespace TgBot;
 
 int main() {
-    string token = "5740923720:AAEKJSlxHotb9zf8566r1uqZ6vXCBy8kK6I";
+    string token = "";
     printf("Token: %s\n", token.c_str());
 
     Bot bot(token);
