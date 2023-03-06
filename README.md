@@ -1,4 +1,4 @@
-# echobot
+# spell-bot
 My term paper for my first year at NURE University.
 ----------------
 ## Dependencies
